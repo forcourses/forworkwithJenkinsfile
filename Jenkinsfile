@@ -1,7 +1,7 @@
 pipeline {
     agent any
 
-    // this section configures Jenkins options fgfgfgfgfgfgfgfgfgfgпрпрнрнр
+    // this section configures Jenkins options fgfgfgfgfgfgfgfgfgfgпрпрнрнрhjhjhj
     options {
 
         // only keep 10 logs for no more than 10 days
